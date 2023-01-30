@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contador-de-clicks/static/css/main.48448661.css",
+    "main.js": "/Contador-de-clicks/static/js/main.a4001527.js",
+    "index.html": "/Contador-de-clicks/index.html",
+    "main.48448661.css.map": "/Contador-de-clicks/static/css/main.48448661.css.map",
+    "main.a4001527.js.map": "/Contador-de-clicks/static/js/main.a4001527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48448661.css",
+    "static/js/main.a4001527.js"
+  ]
+}
